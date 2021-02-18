@@ -1,0 +1,48 @@
+2021-02-08 15:39:02,511 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-08 15:39:33,196 - logger_File -INFO - Retail page is opened
+2021-02-08 15:39:33,265 - logger_File -INFO - Page title  is verified
+2021-02-08 15:39:36,398 - logger_File -INFO - User entered value in search bar
+2021-02-08 15:39:37,591 - logger_File -INFO - user clicked on search button
+2021-02-08 15:39:39,440 - logger_File -INFO - Search functionality Test case   passed
+2021-02-08 20:36:52,945 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-08 20:37:36,356 - logger_File -INFO - Retail page is opened
+2021-02-08 20:37:36,381 - logger_File -INFO - Page title  is verified
+2021-02-08 20:37:37,941 - logger_File -INFO - Retail page is opened
+2021-02-08 20:37:37,951 - logger_File -INFO - Page title  is verified
+2021-02-08 20:37:40,090 - logger_File -INFO - User entered value in search bar
+2021-02-08 20:37:41,532 - logger_File -INFO - user clicked on search button
+2021-02-08 20:37:43,774 - logger_File -INFO - Search functionality Test case   passed
+2021-02-08 20:39:47,652 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 20:39:57,998 - logger_File -INFO - Retail page is opened
+2021-02-08 20:39:58,021 - logger_File -INFO - Page title  is verified
+2021-02-08 20:39:58,948 - logger_File -INFO - User click on My Account
+2021-02-08 20:40:00,430 - logger_File -INFO - Register an Account test case   undefined
+2021-02-08 20:41:52,231 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 20:42:03,595 - logger_File -INFO - Retail page is opened
+2021-02-08 20:42:03,608 - logger_File -INFO - Page title  is verified
+2021-02-08 20:42:04,213 - logger_File -INFO - User click on My Account
+2021-02-08 20:42:04,978 - logger_File -INFO - Register an Account test case   undefined
+2021-02-09 20:23:33,266 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-09 20:24:32,554 - logger_File -INFO - Retail page is opened
+2021-02-09 20:24:32,647 - logger_File -INFO - Page title  is verified
+2021-02-09 20:24:39,311 - logger_File -INFO - User click on My Account
+2021-02-09 20:24:42,119 - logger_File -INFO - User clicked on Register option
+2021-02-09 20:24:43,850 - logger_File -INFO - User filled the information form
+2021-02-09 20:24:45,756 - logger_File -INFO - User check privacy and policy
+2021-02-09 20:24:48,801 - logger_File -INFO - User clicked on Continue button
+2021-02-09 20:26:12,913 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:26:19,718 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-09 20:26:20,780 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-09 20:35:36,964 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:52:09,573 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:53:47,399 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-09 20:53:50,141 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-09 20:53:50,617 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:53:50,619 - logger_File -INFO - DataBase connection has been closed
+2021-02-09 20:53:57,752 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-02-09 20:55:17,902 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:56:09,981 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-09 20:56:10,801 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-09 20:56:11,378 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:56:11,380 - logger_File -INFO - DataBase connection has been closed
+2021-02-09 20:56:17,380 - logger_File -INFO - Execute all information from Actor Table   passed

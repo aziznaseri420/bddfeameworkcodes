@@ -1,0 +1,48 @@
+2021-02-08 15:39:02,511 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 15:39:33,196 [main] INFO logger_File - Retail page is opened
+2021-02-08 15:39:33,265 [main] INFO logger_File - Page title  is verified
+2021-02-08 15:39:36,398 [main] INFO logger_File - User entered value in search bar
+2021-02-08 15:39:37,591 [main] INFO logger_File - user clicked on search button
+2021-02-08 15:39:39,440 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-08 20:36:52,945 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 20:37:36,356 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:37:36,381 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:37:37,941 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:37:37,951 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:37:40,090 [main] INFO logger_File - User entered value in search bar
+2021-02-08 20:37:41,532 [main] INFO logger_File - user clicked on search button
+2021-02-08 20:37:43,774 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-08 20:39:47,652 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 20:39:57,998 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:39:58,021 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:39:58,948 [main] INFO logger_File - User click on My Account
+2021-02-08 20:40:00,430 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-08 20:41:52,231 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-08 20:42:03,595 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:42:03,608 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:42:04,213 [main] INFO logger_File - User click on My Account
+2021-02-08 20:42:04,978 [main] INFO logger_File - Register an Account test case   undefined
+2021-02-09 20:23:33,266 [main] INFO logger_File - Scenario Register an Account test case Started 
+2021-02-09 20:24:32,554 [main] INFO logger_File - Retail page is opened
+2021-02-09 20:24:32,647 [main] INFO logger_File - Page title  is verified
+2021-02-09 20:24:39,311 [main] INFO logger_File - User click on My Account
+2021-02-09 20:24:42,119 [main] INFO logger_File - User clicked on Register option
+2021-02-09 20:24:43,850 [main] INFO logger_File - User filled the information form
+2021-02-09 20:24:45,756 [main] INFO logger_File - User check privacy and policy
+2021-02-09 20:24:48,801 [main] INFO logger_File - User clicked on Continue button
+2021-02-09 20:26:12,913 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:26:19,718 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:26:20,780 [main] INFO logger_File - Execute all information from Actor Table   failed
+2021-02-09 20:35:36,964 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:52:09,573 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:53:47,399 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:53:50,141 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 20:53:50,617 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:53:50,619 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 20:53:57,752 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-09 20:55:17,902 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:56:09,981 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-09 20:56:10,801 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-09 20:56:11,378 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:56:11,380 [main] INFO logger_File - DataBase connection has been closed
+2021-02-09 20:56:17,380 [main] INFO logger_File - Execute all information from Actor Table   passed
