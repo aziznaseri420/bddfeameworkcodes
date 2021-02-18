@@ -18,6 +18,7 @@ public class LoginPageObj extends Base {
 	}
 
 	// PageFactory class provides @FindBy annotation to find UI elements.
+	// i made some changes just to test github 
 	// driver.findElement(by.xpath("//tag[@attribute='value']"))
 	// the above code is same as below but, below code is used to implement
 	// PageFactory in POM Design pattern
