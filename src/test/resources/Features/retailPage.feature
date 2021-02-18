@@ -22,6 +22,8 @@ Scenario: Register an Account test case
 		And User accept the privacy and policy 
 		And User click on Continue button
 		Then User should be registered in Retail Website
+		
+These are changes from github 
        
     
       
